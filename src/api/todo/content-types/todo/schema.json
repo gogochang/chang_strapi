@@ -23,6 +23,9 @@
     },
     "date": {
       "type": "date"
+    },
+    "UserName": {
+      "type": "string"
     }
   }
 }

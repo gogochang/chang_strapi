@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "art_bridge_posts",
+  "info": {
+    "singularName": "art-bridge-post",
+    "pluralName": "art-bridge-posts",
+    "displayName": "ArtBridgePost"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "contents": {
+      "type": "richtext"
+    },
+    "date": {
+      "type": "date"
+    },
+    "like": {
+      "type": "integer"
+    }
+  }
+}

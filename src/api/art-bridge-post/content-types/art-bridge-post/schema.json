@@ -4,7 +4,8 @@
   "info": {
     "singularName": "art-bridge-post",
     "pluralName": "art-bridge-posts",
-    "displayName": "ArtBridgePost"
+    "displayName": "ArtBridgePost",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -22,6 +23,9 @@
     },
     "like": {
       "type": "integer"
+    },
+    "author": {
+      "type": "string"
     }
   }
 }

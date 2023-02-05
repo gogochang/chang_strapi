@@ -18,12 +18,6 @@
     "contents": {
       "type": "richtext"
     },
-    "date": {
-      "type": "date"
-    },
-    "like": {
-      "type": "integer"
-    },
     "author": {
       "type": "string"
     }
